@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+jarvis_settings.json
+jarvis_memory.json
+chat_history.json
